@@ -12,7 +12,7 @@
 
 ## 🚀 Быстрый запуск
 
-### 1. Клонирование репозитория
+### 1. Клонирование репозитория и запуск docker compose
 
 ```
 git clone https://github.com/varlamov533/Habits.git

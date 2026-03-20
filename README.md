@@ -14,5 +14,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com
+git clone https://github.com/varlamov533/Habits.git
 cd Habits

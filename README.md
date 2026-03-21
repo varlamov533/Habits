@@ -19,3 +19,5 @@ git clone https://github.com/varlamov533/Habits.git
 cd Habits
 docker compose up -d
 ```
+
+Данный сервис был создан по заданию из https://solvit.space/projects/habit_tracker
